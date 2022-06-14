@@ -1,0 +1,15 @@
+.vert{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+}
+.rouge{
+    background-color:red;
+    width: 100px;
+    height: 100px;
+}
+.jaune{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+}
